@@ -1,6 +1,6 @@
 Feature: Login Applications
 
-Scenario: Login with Valid Credentials
+Scenario: Login with Valid Credentia
 
 Given User launches applications
 
