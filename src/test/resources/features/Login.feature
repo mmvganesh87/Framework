@@ -2,10 +2,10 @@ Feature: Login Application
 
 Scenario: Login with Valid Credentials
 
-Given User launches application
+Given User launches applications
 
-When User enters username and password
+And User enters username and password
 
-And Click Login
+And Click Logins
 
 
