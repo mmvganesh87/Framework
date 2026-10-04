@@ -8,4 +8,7 @@ And User enters username and password
 
 And Click Logins
 
+Examples:
+|login|
+
 
