@@ -1,4 +1,4 @@
-Feature: Login Application
+Feature: Login Applications
 
 Scenario: Login with Valid Credentials
 
